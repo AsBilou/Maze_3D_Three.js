@@ -50,7 +50,8 @@ THREE.PointerLockControls = function ( camera ) {
 
             case 37: // left
             case 81: // q
-                moveLeft = true; break;
+                moveLeft = true; 
+                break;
 
             case 40: // down
             case 83: // s
